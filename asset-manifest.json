@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed36f50d.css",
-    "main.js": "/static/js/main.3137f5da.js",
-    "static/media/conversio-logo.svg": "/static/media/conversio-logo.d225e1fe1af2919f938c0e13bda4dc35.svg",
-    "static/media/coins.svg": "/static/media/coins.2785868a46dc7be490b28a17cbc866c2.svg",
-    "static/media/lightbulb-on.svg": "/static/media/lightbulb-on.b17f884b94f8a7ef833e37963a3c7aa5.svg",
-    "static/media/calculator.svg": "/static/media/calculator.aafd93e25e2b2a11bdc9c44ce40b47ab.svg",
-    "static/media/bell.svg": "/static/media/bell.43e72fc137bd8a20a337f07a8c714f74.svg",
-    "index.html": "/index.html",
-    "static/media/chart-simple.svg": "/static/media/chart-simple.e677f17c81a63652c08575e590441fe3.svg",
-    "static/media/arrow-rotate-left.svg": "/static/media/arrow-rotate-left.336bec2bc6bb93256607350e35448206.svg",
-    "static/media/presentation-screen.svg": "/static/media/presentation-screen.74585a2b2291a04739ed8781c938ef5f.svg",
-    "static/media/phone.svg": "/static/media/phone.109d4fa193327c9d88b29ad036c70c25.svg",
-    "static/media/envelope.svg": "/static/media/envelope.2d4a885c8a4213d737c0e0678f068f20.svg",
-    "static/media/arrow-up-right.svg": "/static/media/arrow-up-right.00f6013380899c1b09afa5c588feeda2.svg",
-    "static/media/chevron-down.svg": "/static/media/chevron-down.af8d30be55e5e3324d1132d832986828.svg",
-    "static/media/xmark.svg": "/static/media/xmark.20d3e23a08f75de75a44dd01af395e35.svg",
-    "main.ed36f50d.css.map": "/static/css/main.ed36f50d.css.map",
-    "main.3137f5da.js.map": "/static/js/main.3137f5da.js.map"
+    "main.css": "/client-hub-project/static/css/main.ed36f50d.css",
+    "main.js": "/client-hub-project/static/js/main.37a64021.js",
+    "static/media/conversio-logo.svg": "/client-hub-project/static/media/conversio-logo.d225e1fe1af2919f938c0e13bda4dc35.svg",
+    "static/media/coins.svg": "/client-hub-project/static/media/coins.2785868a46dc7be490b28a17cbc866c2.svg",
+    "static/media/lightbulb-on.svg": "/client-hub-project/static/media/lightbulb-on.b17f884b94f8a7ef833e37963a3c7aa5.svg",
+    "static/media/calculator.svg": "/client-hub-project/static/media/calculator.aafd93e25e2b2a11bdc9c44ce40b47ab.svg",
+    "static/media/bell.svg": "/client-hub-project/static/media/bell.43e72fc137bd8a20a337f07a8c714f74.svg",
+    "index.html": "/client-hub-project/index.html",
+    "static/media/chart-simple.svg": "/client-hub-project/static/media/chart-simple.e677f17c81a63652c08575e590441fe3.svg",
+    "static/media/arrow-rotate-left.svg": "/client-hub-project/static/media/arrow-rotate-left.336bec2bc6bb93256607350e35448206.svg",
+    "static/media/presentation-screen.svg": "/client-hub-project/static/media/presentation-screen.74585a2b2291a04739ed8781c938ef5f.svg",
+    "static/media/phone.svg": "/client-hub-project/static/media/phone.109d4fa193327c9d88b29ad036c70c25.svg",
+    "static/media/envelope.svg": "/client-hub-project/static/media/envelope.2d4a885c8a4213d737c0e0678f068f20.svg",
+    "static/media/arrow-up-right.svg": "/client-hub-project/static/media/arrow-up-right.00f6013380899c1b09afa5c588feeda2.svg",
+    "static/media/chevron-down.svg": "/client-hub-project/static/media/chevron-down.af8d30be55e5e3324d1132d832986828.svg",
+    "static/media/xmark.svg": "/client-hub-project/static/media/xmark.20d3e23a08f75de75a44dd01af395e35.svg",
+    "main.ed36f50d.css.map": "/client-hub-project/static/css/main.ed36f50d.css.map",
+    "main.37a64021.js.map": "/client-hub-project/static/js/main.37a64021.js.map"
   },
   "entrypoints": [
     "static/css/main.ed36f50d.css",
-    "static/js/main.3137f5da.js"
+    "static/js/main.37a64021.js"
   ]
 }
