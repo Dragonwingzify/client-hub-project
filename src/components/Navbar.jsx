@@ -74,7 +74,7 @@ export default function Navbar() {
                 ) : (
                   <Link
                     key={page.name}
-                    to={`${process.env.PUBLIC_URL}/${page.href}/${urlID}`}
+                    to={`${page.href}/${urlID}`}
                     className="text-sm font-semibold text-gray-800"
                   >
                     {page.name}
