@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/client-hub-project/static/css/main.ed36f50d.css",
-    "main.js": "/client-hub-project/static/js/main.37a64021.js",
+    "main.js": "/client-hub-project/static/js/main.f97e4752.js",
     "static/media/conversio-logo.svg": "/client-hub-project/static/media/conversio-logo.d225e1fe1af2919f938c0e13bda4dc35.svg",
     "static/media/coins.svg": "/client-hub-project/static/media/coins.2785868a46dc7be490b28a17cbc866c2.svg",
     "static/media/lightbulb-on.svg": "/client-hub-project/static/media/lightbulb-on.b17f884b94f8a7ef833e37963a3c7aa5.svg",
@@ -17,10 +17,10 @@
     "static/media/chevron-down.svg": "/client-hub-project/static/media/chevron-down.af8d30be55e5e3324d1132d832986828.svg",
     "static/media/xmark.svg": "/client-hub-project/static/media/xmark.20d3e23a08f75de75a44dd01af395e35.svg",
     "main.ed36f50d.css.map": "/client-hub-project/static/css/main.ed36f50d.css.map",
-    "main.37a64021.js.map": "/client-hub-project/static/js/main.37a64021.js.map"
+    "main.f97e4752.js.map": "/client-hub-project/static/js/main.f97e4752.js.map"
   },
   "entrypoints": [
     "static/css/main.ed36f50d.css",
-    "static/js/main.37a64021.js"
+    "static/js/main.f97e4752.js"
   ]
 }
