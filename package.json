@@ -1,5 +1,4 @@
 {
-  "homepage": "https://dragonwingzify.github.io/client-hub-project",
   "name": "client-hub-project",
   "version": "0.1.0",
   "private": true,
@@ -43,7 +42,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
     "react-router-dom": "^6.21.1",
     "tailwindcss": "^3.3.4"
   }
